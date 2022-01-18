@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jake!
-- 👀 I’m interested in musical production, baseball, electoral politics and environmental policy
+- 👀 I’m interested in music production, baseball, electoral politics and environmental policy
 - 🌱 I’m currently learning python, R and ArcGIS
 - 💞️ Let me know if you need any help and I'll see what I can do :) 
 - 📫 You can reach me at my email: jasteel97@gmail.com
